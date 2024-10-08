@@ -42,6 +42,9 @@ html {
     overflow-x: hidden;
     font-family: "Poppins", sans-serif;
     margin: 0;
+    background-image: url("./assets/bg.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   
   .container {
