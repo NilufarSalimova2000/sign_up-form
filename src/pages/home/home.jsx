@@ -24,6 +24,7 @@ export const Home = () => {
 
     const submit =(data) => {
         console.log(data);
+        reset();
     }
     return (
         <section className={style.section}>
